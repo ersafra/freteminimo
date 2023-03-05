@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Frete Minimo - ANTT</string>
+    <string name="btnCalcular">Calcular</string>
 </resources>
